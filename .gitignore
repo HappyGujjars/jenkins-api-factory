@@ -1,0 +1,9 @@
+# Ignore environment variables / secrets
+config.env
+accessToken
+
+# Ignore macOS generated files
+.DS_Store
+
+# Ignore generated XML files (just in case they are left over)
+*.xml
